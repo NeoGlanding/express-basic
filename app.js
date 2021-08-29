@@ -1,10 +1,16 @@
+const fs = require('fs');
 const express = require('express');
 const app = express();
 
 
-app.get('/', (req, res) => {
+const mentors = JSON.parse(fs.readFileSync(`${__dirname}/data/data.json`));
+
+app.get('/api/v1/mentors', (req, res) => {
     res.status(200).json({
-        message: 'this is a new app',
+        message: 'success',
+        response: {
+            mentors
+        }
     })
 });
 
@@ -13,7 +19,6 @@ app.post('/', (req, res) => {
         message: 'post is finished'
     })
 })
-
 
 const port = 3000;
 app.listen(port, () => {
