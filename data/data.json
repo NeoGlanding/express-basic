@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Muhammad Ihsan Abdurrahman",
+        "status": "Alumni",
+        "profiency": "Fullstack Development",
+        "profiency_details": ["HTML5", "CSS3", "JavaScript ES6", "Boostrap", "Tailwind", "ReactJS", "MySQL", "MongoDB", "Node.js", "Express.js"],
+        "mentor_status" : "Founder"
+    },
+    {
+        "name": "Muhammad Jamil",
+        "status": "Student",
+        "profiency": "Frontend Development",
+        "profiency_details": ["HTML5", "CSS3", "SASS", "Boostrap"],
+        "mentor_status" : "Founder"
+    },
+    {
+        "name": "Ataullah Fairuz Ibrahim",
+        "status": "Student",
+        "profiency": "Frontend Development",
+        "profiency_details": ["HTML5", "CSS3", "SASS", "Boostrap"],
+        "mentor_status" : "Founder"
+    },
+    {
+        "name": "Bagus Ario Yudanto",
+        "status": "Alumni",
+        "profiency": "Frontend Development",
+        "profiency_details": ["HTML5", "CSS3"],
+        "mentor_status" : "Founder"
+    },
+    {
+        "name": "Akmal Adi Saputra",
+        "status": "Student",
+        "profiency": "Semi Fullstack Development",
+        "profiency_details": ["HTML5", "CSS3", "JavaScript ES6", "Bootstrap", "PHP", "MySQL"],
+        "mentor_status" : "Mentor"
+    },
+    {
+        "name": "Kilta Aufa Qorina",
+        "status": "Student",
+        "profiency": "Frontend Development",
+        "profiency_details": ["HTML5", "CSS3", "JavaScript ES6", "PHP", "MySQL"],
+        "mentor_status" : "Mentor"
+    },
+    {
+        "name": "Farah Dewi Shakila",
+        "status": "Student",
+        "profiency": "Frontend Development",
+        "profiency_details": ["HTML5", "CSS3"],
+        "mentor_status" : "Mentor"
+    },
+    {
+        "name": "Zahra Indica Fathsyah",
+        "status": "Student",
+        "profiency": "Frontend Development",
+        "profiency_details": ["HTML5", "CSS3", "JavaScript ES6"],
+        "mentor_status" : "Mentor"
+    }
+]
